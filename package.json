@@ -1,0 +1,21 @@
+{
+  "name": "buf-ts-remote",
+  "version": "0.0.0",
+  "description": "Buf plugin and template to generate Typescript gRPC code.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altipla-consulting/buf-ts-remote.git"
+  },
+  "author": "Altipla Consulting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altipla-consulting/buf-ts-remote/issues"
+  },
+  "homepage": "https://github.com/altipla-consulting/buf-ts-remote#readme",
+  "dependencies": {
+    "@protobuf-ts/plugin": "2.3.0",
+    "google-proto-files": "2.5.0"
+  }
+}
